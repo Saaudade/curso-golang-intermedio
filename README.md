@@ -1,6 +1,6 @@
 Curso de Golang de nivel 
 
-Métodos y funciones
+Constructores
 
 Escuela: Platzi
 
