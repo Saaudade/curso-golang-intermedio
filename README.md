@@ -1,4 +1,6 @@
-Curso de Golang de nivel intermedio
+Clase 2
+
+En este repaso se estudiaron los siguientes temas: GoRoutines y apuntadores
 
 Escuela: Platzi
 
