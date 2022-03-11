@@ -1,4 +1,6 @@
-Curso de Golang de nivel intermedio
+Curso de Golang de nivel 
+
+Structs vs. clases
 
 Escuela: Platzi
 
