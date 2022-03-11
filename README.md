@@ -1,6 +1,6 @@
 Curso de Golang de nivel 
 
-Structs vs. clases
+Métodos y funciones
 
 Escuela: Platzi
 
