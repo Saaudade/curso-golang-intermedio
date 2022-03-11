@@ -1,6 +1,6 @@
 Curso de Golang de nivel 
 
-Constructores
+Herencia
 
 Escuela: Platzi
 
