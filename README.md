@@ -1,6 +1,6 @@
 Curso de Golang de nivel 
 
-Herencia
+Interfaces
 
 Escuela: Platzi
 
