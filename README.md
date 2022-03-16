@@ -1,6 +1,6 @@
 Curso de Golang de nivel intermedio
 
-Tema: Funciones anónimas
+Tema: Funciones variadicas y retornos con nombre
 
 Escuela: Platzi
 
