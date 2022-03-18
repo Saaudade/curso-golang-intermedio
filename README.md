@@ -1,6 +1,6 @@
 Curso de Golang de nivel intermedio
 
-Clase: Testing y Code Coverage
+Clase: Profiling
 
 Escuela: Platzi
 
