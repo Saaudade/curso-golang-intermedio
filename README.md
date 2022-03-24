@@ -1,6 +1,6 @@
 Curso de Golang de nivel 
 
-Herencia
+Clase: Testing usando Mocks
 
 Escuela: Platzi
 
