@@ -1,5 +1,5 @@
 Curso de Golang de nivel intermedio
 
-Escuela: Waitgroup
+Escuela: Buffered channels como semáforos
 
 Estudiante: Christian Alberto Tamayo Robayo
