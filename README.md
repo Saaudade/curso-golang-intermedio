@@ -1,5 +1,5 @@
 Curso de Golang de nivel intermedio
 
-Escuela: Buffered channels como semáforos
+Escuela: Definiendo channels de lectura y escritura
 
 Estudiante: Christian Alberto Tamayo Robayo
