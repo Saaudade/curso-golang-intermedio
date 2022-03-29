@@ -1,5 +1,5 @@
 Curso de Golang de nivel intermedio
 
-Escuela: Unbuffered channels y buffered channels
+Escuela: Waitgroup
 
 Estudiante: Christian Alberto Tamayo Robayo
