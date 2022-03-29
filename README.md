@@ -1,5 +1,5 @@
 Curso de Golang de nivel intermedio
 
-Escuela: Worker pools
+Escuela: Multiplexación
 
 Estudiante: Christian Alberto Tamayo Robayo

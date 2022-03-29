@@ -26,7 +26,7 @@ func Worker(id int, jobs <-chan int, result chan<- int) {
 	for job := range jobs {
 		fmt.Printf("Worker with id %d started fib with %d\n", id, job)
 		fib := Fibonacci(job)
-		fmt.Printf("Worker with id %d, job %d and fib %d", id, job, fib)
+		fmt.Printf("Worker with id %d, job %d and fib %d\n", id, job, fib)
 		result <- fib
 	}
 }
