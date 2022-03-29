@@ -18,14 +18,14 @@ type FullTimeEmployee struct {
 	Person
 }
 
-var GetPersonByDNI := func(dni string) (Person, error) {
-	time.Sleep(5 * time.Second)
+var GetPersonByDNI = func(dni string) (Person, error) {
+	time.Sleep(5 * time.Second) //Simulación de lectura a base de datos
 	// SELECT * FROM Persona Where ...
 	return Person{}, nil
 }
 
-var GetEmployeeById := func(id int) (Employee, error) {
-	time.Sleep(5 * time.Second)
+var GetEmployeeById = func(id int) (Employee, error) {
+	time.Sleep(5 * time.Second) //Simulación de lectura a base de datos
 	return Employee{}, nil
 }
 
@@ -39,7 +39,7 @@ func GetFullTimeEmployeeById(id int, dni string) (FullTimeEmployee, error) {
 
 	ftEmployee.Employee = e
 
-	p, err := GetPersonByDNI(id)
+	p, err := GetPersonByDNI(dni)
 	if err != nil {
 		return ftEmployee, err
 	}
@@ -47,5 +47,4 @@ func GetFullTimeEmployeeById(id int, dni string) (FullTimeEmployee, error) {
 	ftEmployee.Person = p
 
 	return ftEmployee, nil
-
 }
