@@ -1,5 +1,5 @@
 Curso de Golang de nivel intermedio
 
-Escuela: Platzi
+Escuela: Unbuffered channels y buffered channels
 
 Estudiante: Christian Alberto Tamayo Robayo
