@@ -1,6 +1,6 @@
 Curso de Golang de nivel intermedio
 
-Clase: Definiendo workers, jobs y dispatchers
+Clase: Creando web server para procesar jobs
 
 Escuela: Platzi
 
